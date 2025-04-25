@@ -21,6 +21,7 @@ body:
         Provide a set of clear steps to reproduce this bug.
       placeholder: |
         Example:
+       - Anything else that would help a developer reproduce the bug
           1. Navigate to storefront as a guest.
           2. Open Test Category.
           3. Click “Add to Cart” on the Virtual Product.
